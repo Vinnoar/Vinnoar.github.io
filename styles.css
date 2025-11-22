@@ -1,0 +1,25 @@
+body {
+        background-color: #071f4a;
+        margin: 0;
+        padding: 0;
+    }
+h1 {
+        color: #f2da91;
+        text-align: left;
+    }
+p {
+        font-family: "Courier New", Serif;
+        color: #d3dae6;
+}
+h3 {
+        font-family: Arial, sans-serif;
+        color: #99cfe8;
+
+}
+b {
+        color: #91f2c6;
+}
+ul {
+        font-size: 20px;
+        color: #f7f3e6;
+}
